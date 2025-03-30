@@ -1,0 +1,14 @@
+{"level":"info","message":"New addition operation requested: 9 + 3","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 9 + 4","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 12 + 4","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 12 / 4","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 12 / 4","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 12 * 4","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 12 / 4","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 10 + 5","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 10 - 5","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 4 * 3","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 20 / NaN","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 20 / 4","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: NaN + 5","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 5 / 0","service":"calculator-microservice"}
