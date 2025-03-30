@@ -18,6 +18,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2",
+    "nodemon": "^3.1.9",
     "tail": "^2.2.6",
     "winston": "^3.17.0"
   }

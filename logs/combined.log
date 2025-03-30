@@ -12,3 +12,38 @@
 {"level":"info","message":"New division operation requested: 20 / 4","service":"calculator-microservice"}
 {"level":"info","message":"New addition operation requested: NaN + 5","service":"calculator-microservice"}
 {"level":"info","message":"New division operation requested: 5 / 0","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 9 + 3","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: NaN + 3","service":"calculator-microservice"}
+{"level":"error","message":"Addition error: Invalid input - num1=NaN, num2=3","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 9 + 3","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 9 + 3","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: 9 ^ 3","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: 9 ^ 0","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: 9 ^ 0","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: 9 ^ 0","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested: √NaN","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: 9 ^ 0","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested: √9","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested: √9","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 9 + 3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 10 % 3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: -10 % 3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 10.5 % 3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 10 % 0","service":"calculator-microservice"}
+{"level":"error","message":"Modulo error: Modulo by zero - num1=10, num2=0","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested: √NaN","service":"calculator-microservice"}
+{"level":"error","message":"Sqrt error: Invalid input - num=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: -4 ^ NaN","service":"calculator-microservice"}
+{"level":"error","message":"Power error: Invalid input - num1=-4?num2=2, num2=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested: -4 ^ 2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}

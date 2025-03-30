@@ -1,0 +1,15 @@
+{"level":"error","message":"Addition error: Invalid input - num1=NaN, num2=3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Modulo error: Modulo by zero - num1=10, num2=0","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Sqrt error: Invalid input - num=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Power error: Invalid input - num1=-4?num2=2, num2=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid endpoint accessed: /favicon.ico","service":"calculator-microservice"}
